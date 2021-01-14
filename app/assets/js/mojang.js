@@ -25,7 +25,7 @@ const statuses = [
     {
         service: 'authserver.mojang.com',
         status: 'grey',
-        name: 'Authentication Service',
+        name: 'Service D"authentication',
         essential: true
     },
     {

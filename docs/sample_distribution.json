@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "KGInfoServs",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "id": "KGInfoServs.com",
+            "name": "KGInfoServs",
+            "description": "Serveur Survie",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "version": "1.16.4",
+            "address": "play.kginfoservs.com",
+            "minecraftVersion": "1.16.4",
             "discord": {
-                "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "shortId": "KG",
+                "largeImageText": "KG",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
