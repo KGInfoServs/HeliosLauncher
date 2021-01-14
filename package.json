@@ -1,5 +1,5 @@
 {
-  "name": "KGInfoServsLauncher",
+  "name": "kginfoservslauncher",
   "version": "1.0.0",
   "productName": "KGInfoServsLauncher",
   "description": "Launcher Officiel KGInfoServs",
@@ -48,5 +48,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Bossbirdyman51/KGInfoServsLauncher.git"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
