@@ -1,0 +1,33 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "385581240906022916",
+        "smallImageText": "KGInfoServs",
+        "smallImageKey": "seal-circle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "servers": [
+        {
+                "id": "KGInfoServs",
+                "name": "KGInfoServs",
+                "description": "Serveur Survie",
+                "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+                "version": "0.0.1",
+                "address": "play.kginfoservs.com",
+                "minecraftVersion": "1.16.4",
+                "discord": {
+                    "shortId": "Example",
+                    "largeImageText": "WesterosCraft Example Server",
+                    "largeImageKey": "server-example"
+                },
+                "mainServer": true,
+                "autoconnect": true,
+                "modules": []
+        }
+
+                
+            ]
+        }
